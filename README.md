@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @topette
+- 👀 I’m interested in Frontend
+- 🌱 I’m currently learning Javascript and Django
